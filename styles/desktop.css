@@ -11,10 +11,20 @@ body{
 	color: black;
 	font-family: Source Sans Pro, sans-serif;
 	font-size: 60pt;
-	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 50px;
+	
+}
+#banner img{
+	position: relative;
+	top: -65px;
+	left: 10px;
+	margin-left: 100px;
+}
+#banner h2{
 
+	text-align: right;
+	margin-right: 140px;
+	margin-top: -300px;
+	vertical-align: center;
 }
 
 nav{
